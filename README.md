@@ -1,5 +1,5 @@
 # SaaS
 
-## **"Search first, Code later" - xnohat**
+## **"Search First, Code Later" - xnohat**
 
 ### This is a collective list of SaaS (Software as a Service) for lazy Developer
